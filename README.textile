@@ -1,0 +1,1 @@
+Scrapes fantasy football data from the official premier league website. Each record shows the stats for each player for each week.
